@@ -1,0 +1,13 @@
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.exe
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.deps.json
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.runtimeconfig.json
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.runtimeconfig.dev.json
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.dll
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\bin\Debug\netcoreapp3.1\SavageLab8-2.pdb
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.csprojAssemblyReference.cache
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.AssemblyInfo.cs
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.dll
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.pdb
+C:\Users\there\source\repos\SavageLab8-2\SavageLab8-2\obj\Debug\netcoreapp3.1\SavageLab8-2.genruntimeconfig.cache
